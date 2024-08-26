@@ -1,0 +1,196 @@
+id,country,official_language,land_area_km2,life_expectancy
+1,Afghanistan,Pashto,652230,64.5
+2,Albania,Albanian,28748,78.5
+3,Algeria,Arabic,2381741,76.7
+4,Andorra,Catalan,468,
+5,Angola,Portuguese,1246700,60.8
+6,Antigua and Barbuda,English,443,76.9
+7,Argentina,Spanish,2780400,76.5
+8,Armenia,Armenian,29743,74.9
+9,Australia,None,7741220,82.7
+10,Austria,German,83871,81.6
+11,Azerbaijan,Azerbaijani language,86600,72.9
+12,The Bahamas,English,13880,73.8
+13,Bahrain,Arabic,765,77.2
+14,Bangladesh,Bengali,148460,72.3
+15,Barbados,English,430,79.1
+16,Belarus,Russian,207600,74.2
+17,Belgium,French,30528,81.6
+18,Belize,English,22966,74.5
+19,Benin,French,112622,61.5
+20,Bhutan,Dzongkha,38394,71.5
+21,Bolivia,Spanish,1098581,71.2
+22,Bosnia and Herzegovina,Bosnian,51197,77.3
+23,Botswana,English,581730,69.3
+24,Brazil,Portuguese,8515770,75.7
+25,Brunei,Malay,5765,75.7
+26,Bulgaria,Bulgarian,110879,74.9
+27,Burkina Faso,French,274200,61.2
+28,Burundi,Kirundi,27830,61.2
+29,Ivory Coast,French,322463,57.4
+30,Cape Verde,Portuguese,4033,72.8
+31,Cambodia,Khmer language,181035,69.6
+32,Cameroon,French,475440,58.9
+33,Canada,French,9984670,81.9
+34,Central African Republic,French,622984,52.8
+35,Chad,French,1284000,54
+36,Chile,Spanish,756096,80
+37,China,Standard Chinese,9596960,77
+38,Colombia,Spanish,1138910,77.1
+39,Comoros,French,2235,64.1
+40,Republic of the Congo,French,342000,64.3
+41,Costa Rica,Spanish,51100,80.1
+42,Croatia,Croatian,56594,78.1
+43,Cuba,Spanish,110860,78.7
+44,Cyprus,Greek,9251,80.8
+45,Czech Republic,Czech,78867,79
+46,Democratic Republic of the Congo,French,2344858,60.4
+47,Denmark,Danish,43094,81
+48,Djibouti,French,23200,66.6
+49,Dominica,English,751,76.6
+50,Dominican Republic,Spanish,48670,73.9
+51,Ecuador,Spanish,283561,76.8
+52,Egypt,Modern Standard Arabic,1001450,71.8
+53,El Salvador,Spanish,21041,73.1
+54,Equatorial Guinea,Spanish,28051,58.4
+55,Eritrea,Tigrinya,117600,65.9
+56,Estonia,Estonian,45228,78.2
+57,Eswatini,English,17364,
+58,Ethiopia,Amharic,1104300,66.2
+59,Fiji,Fiji Hindi,18274,67.3
+60,Finland,Swedish,338145,81.7
+61,France,French,643801,82.5
+62,Gabon,French,267667,66.2
+63,The Gambia,English,11300,61.7
+64,Georgia,Georgian,69700,73.6
+65,Germany,German,357022,80.9
+66,Ghana,English,238533,63.8
+67,Greece,Greek,131957,81.3
+68,Grenada,English,349,72.4
+69,Guatemala,Spanish,108889,74.1
+70,Guinea,French,245857,61.2
+71,Guinea-Bissau,Portuguese,36125,58
+72,Guyana,English,214969,69.8
+73,Haiti,French,27750,63.7
+74,Vatican City,Italian,0,
+75,Honduras,Spanish,112090,75.1
+76,Hungary,Hungarian,93028,75.8
+77,Iceland,Icelandic,103000,82.7
+78,India,Hindi,3287263,69.4
+79,Indonesia,Indonesian,1904569,71.5
+80,Iran,Persian,1648195,76.5
+81,Iraq,Arabic,438317,70.5
+82,Republic of Ireland,Irish,70273,82.3
+83,Israel,Hebrew,20770,82.8
+84,Italy,Italian,301340,82.9
+85,Jamaica,Jamaican English,10991,74.4
+86,Japan,None,377944,84.2
+87,Jordan,Arabic,89342,74.4
+88,Kazakhstan,Russian,2724900,73.2
+89,Kenya,Swahili,580367,66.3
+90,Kiribati,English,811,68.1
+91,Kuwait,Modern Standard Arabic,17818,75.4
+92,Kyrgyzstan,Russian,199951,71.4
+93,Laos,Lao,236800,67.6
+94,Latvia,Latvian,64589,74.7
+95,Lebanon,Arabic,10400,78.9
+96,Lesotho,English,30355,53.7
+97,Liberia,English,111369,63.7
+98,Libya,Arabic,1759540,72.7
+99,Liechtenstein,German,160,83
+100,Lithuania,Lithuanian,65300,75.7
+101,Luxembourg,Luxembourgish,2586,82.1
+102,Madagascar,French,587041,66.7
+103,Malawi,English,118484,63.8
+104,Malaysia,Malaysian language,329847,76
+105,Maldives,Divehi,298,78.6
+106,Mali,French,1240192,58.9
+107,Malta,Maltese,316,82.3
+108,Marshall Islands,Marshallese,181,65.2
+109,Mauritania,Arabic,1030700,64.7
+110,Mauritius,French,2040,74.4
+111,Mexico,None,1964375,75
+112,Federated States of Micronesia,English,702,67.8
+113,Moldova,Romanian,33851,71.8
+114,Monaco,French,2,
+115,Mongolia,Mongolian,1564116,69.7
+116,Montenegro,Montenegrin language,13812,76.8
+117,Morocco,Arabic,446550,76.5
+118,Mozambique,Portuguese,799380,60.2
+119,Myanmar,Burmese,676578,66.9
+120,Namibia,English,824292,63.4
+121,Nauru,English,21,
+122,Nepal,Nepali,147181,70.5
+123,Netherlands,Dutch,41543,81.8
+124,New Zealand,English,268838,81.9
+125,Nicaragua,Spanish,130370,74.3
+126,Niger,French,1267000,62
+127,Nigeria,English,923768,54.3
+128,North Korea,Korean,120538,72.1
+129,North Macedonia,Macedonian,25713,
+130,Norway,Norwegian,323802,82.8
+131,Oman,Arabic,309500,77.6
+132,Pakistan,Urdu,796095,67.1
+133,Palau,English,459,69.1
+134,Palestinian National Authority,Arabic,,
+135,Panama,Spanish,75420,78.3
+136,Papua New Guinea,Tok Pisin,462840,64.3
+137,Paraguay,Spanish,406752,74.1
+138,Peru,Spanish,1285216,76.5
+139,Philippines,English,300000,71.1
+140,Poland,Polish,312685,77.6
+141,Portugal,Portuguese,92212,81.3
+142,Qatar,Arabic,11586,80.1
+143,Romania,Romanian,238391,75.4
+144,Russia,Russian,17098240,72.7
+145,Rwanda,Swahili,26338,68.7
+146,Saint Kitts and Nevis,English,261,71.3
+147,Saint Lucia,English,616,76.1
+148,Saint Vincent and the Grenadines,English,389,72.4
+149,Samoa,Samoan,2831,73.2
+150,San Marino,Italian,61,85.4
+151,S�����������,,964,70.2
+152,Saudi Arabia,Arabic,2149690,75
+153,Senegal,French,196722,67.7
+154,Serbia,Serbian,77474,75.5
+155,Seychelles,French,455,72.8
+156,Sierra Leone,English,71740,54.3
+157,Singapore,Malay,716,83.1
+158,Slovakia,Slovak,49035,77.2
+159,Slovenia,Slovene language,20273,81
+160,Solomon Islands,English,28896,72.8
+161,Somalia,Arabic,637657,57.1
+162,South Africa,Afrikaans,1219090,63.9
+163,South Korea,Korean,99720,82.6
+164,South Sudan,English,644329,57.6
+165,Spain,Spanish,505370,83.3
+166,Sri Lanka,Tamil,65610,76.8
+167,Sudan,Arabic,1861484,65.1
+168,Suriname,Dutch,163820,71.6
+169,Sweden,Swedish,450295,82.5
+170,Switzerland,German,41277,83.6
+171,Syria,Arabic,185180,71.8
+172,Tajikistan,Persian,144100,70.9
+173,Tanzania,Swahili,947300,65
+174,Thailand,Thai,513120,76.9
+175,East Timor,Portuguese,14874,69.3
+176,Togo,French,56785,60.8
+177,Tonga,Tongan Language,747,70.8
+178,Trinidad and Tobago,English,5128,73.4
+179,Tunisia,Arabic,163610,76.5
+180,Turkey,Turkish,783562,77.4
+181,Turkmenistan,Turkmen,488100,68.1
+182,Tuvalu,Tuvaluan Language,26,
+183,Uganda,Swahili,241038,63
+184,Ukraine,Ukrainian,603550,71.6
+185,United Arab Emirates,Arabic,83600,77.8
+186,United Kingdom,English,243610,81.3
+187,United States,None,9833517,78.5
+188,Uruguay,Spanish,176215,77.8
+189,Uzbekistan,Uzbek,447400,71.6
+190,Vanuatu,French,12189,70.3
+191,Venezuela,Spanish,912050,72.1
+192,Vietnam,Vietnamese,331210,75.3
+193,Yemen,Arabic,527968,66.1
+194,Zambia,English,752618,63.5
+195,Zimbabwe,Shona,390757,61.2
